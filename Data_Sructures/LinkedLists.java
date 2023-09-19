@@ -1,3 +1,4 @@
+package Data_Sructures;
 import java.util.LinkedList;
 
 public class LinkedLists {

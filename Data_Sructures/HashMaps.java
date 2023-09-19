@@ -1,3 +1,4 @@
+package Data_Sructures;
 import java.util.HashMap;
 
 public class HashMaps {
