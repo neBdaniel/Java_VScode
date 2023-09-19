@@ -20,6 +20,6 @@ public class index {
         System.out.println("5. HASHMAPS/HASHTABLES");
         System.out.println("6. TREE");
         System.out.println("7. GRAPH");
-        System.out.println("7. SETS");
+        System.out.println("8. SETS");
     }
 }
